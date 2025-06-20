@@ -23,9 +23,8 @@ Quando não estou programando, adoro cozinhar, escutar músicas e muita leitura 
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Status:
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akemitah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akemitah&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 </div>
 
